@@ -38,3 +38,9 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+/bukkit/target/
+/bukkit/dependency-reduced-pom.xml
+/bungee/target/
+/bungee/dependency-reduced-pom.xml
+/plugin/target/
+/plugin/dependency-reduced-pom.xml
